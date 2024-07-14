@@ -1,0 +1,13 @@
+[
+    {
+        "title": "ramin",
+        "authors": [
+            "ramin"
+        ],
+        "isbn": "45",
+        "year": "2010",
+        "price": 8520.0,
+        "quantity": 50,
+        "lent_to": null
+    }
+]
